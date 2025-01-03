@@ -12,26 +12,26 @@ public class MBTIPersonalityTest{
 
 		System.out.println("Choose what best defines you:");
 		String[] choices = {
-			"1. (A) Expand energy, enjoy groups  (B)Conserve energy, enjoy one-on-one ",
-			"2. (A)  Interpret literally (B) Look for meaning and possiblilities ",
-			"3. (A) Logicalthinking, questioning  (B) Empathetic, feeling, accommodating ",
-           		"4. (A) Organized, orderly (B) Flexible, adaptable ",
-           		"5. (A) More outgoing, think out loud (B)  More reserved, think to yourself ",
-           		"6. (A) Practical, realistic, experiential (B)  Imaginative, innovative, theoretical ",
-           		"7. (A) Candid, straight forward, frank  (B)  Tactful, kind , encouraging ",
-            		"8. (A) Plan , schedule (B)  Unplanned, spontaneous  ",
-           		"9. (A) Seek many tasks, public activities, interaction with others (B)  Seek private, solitary 				      					activities with quiet to  concentrate ",
-          		"10. (A) Standard,usual, conventional (B)  Different, novel, unique ",
-          		"11. (A) Firm,tend to criticize,hold the line (B) Gentle, tend to appreciate,conciliate",
-          		"12. (A) Regulated , structured  (B)  Easy-going,live and let live ",
-          		"13. (A) External, communicative, express yourself (B)  Internal, reticent, keep to yourself ",
-          		"14. (A) Focus on task, achievement (B)  Sensitive, people-oriented, compassionate  ",
-          		"15. (A) Tough-minded, just (B)  Tender-hearted, merciful ",
-         		"16. (A) Preparation, plan ahead (B)  Go with the flow, adapt as you go",
-       			"17. (A) Active, initiate (B) reflective, deliberate",
-          		"18. Facts, things, what is (B) Ideas , dreams,what could be,philosophical",
-            		"19. Matter of fact, issue-oriented (B) Sensitive, people-oriented,compassionate",
-            		"20. (A) Control, govern (B)  Latitude, freedom "
+			"1. (A) Expand energy, enjoy groups  \n(B)Conserve energy, enjoy one-on-one ",
+			"2. (A)  Interpret literally \n(B) Look for meaning and possiblilities ",
+			"3. (A) Logicalthinking, questioning  \n(B) Empathetic, feeling, accommodating ",
+           		"4. (A) Organized, orderly \n(B) Flexible, adaptable ",
+           		"5. (A) More outgoing, think out loud \n(B)  More reserved, think to yourself ",
+           		"6. (A) Practical, realistic, experiential \n(B)  Imaginative, innovative, theoretical ",
+           		"7. (A) Candid, straight forward, frank  \n(B)  Tactful, kind , encouraging ",
+            		"8. (A) Plan , schedule \n(B)  Unplanned, spontaneous  ",
+           		"9. (A) Seek many tasks, public activities, interaction with others \n(B)  Seek private, solitary 				      					activities with quiet to  concentrate ",
+          		"10. (A) Standard,usual, conventional \n(B)  Different, novel, unique ",
+          		"11. (A) Firm,tend to criticize,hold the line \n(B) Gentle, tend to appreciate,conciliate",
+          		"12. (A) Regulated , structured  \n(B)  Easy-going,live and let live ",
+          		"13. (A) External, communicative, express yourself \n(B)  Internal, reticent, keep to yourself ",
+          		"14. (A) Focus on task, achievement \n(B)  Sensitive, people-oriented, compassionate  ",
+          		"15. (A) Tough-minded, just \n(B)  Tender-hearted, merciful ",
+         		"16. (A) Preparation, plan ahead \n(B)  Go with the flow, adapt as you go",
+       			"17. (A) Active, initiate \n(B) reflective, deliberate",
+          		"18. Facts, things, what is \n(B) Ideas , dreams,what could be,philosophical",
+            		"19. Matter of fact, issue-oriented \n(B) Sensitive, people-oriented,compassionate",
+            		"20. (A) Control, govern \n(B)  Latitude, freedom "
       		     };
 		
 		 String[] categories = {

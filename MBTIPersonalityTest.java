@@ -20,7 +20,7 @@ public class MBTIPersonalityTest{
            		"6. (A) Practical, realistic, experiential \n(B)  Imaginative, innovative, theoretical ",
            		"7. (A) Candid, straight forward, frank  \n(B)  Tactful, kind , encouraging ",
             		"8. (A) Plan , schedule \n(B)  Unplanned, spontaneous  ",
-           		"9. (A) Seek many tasks, public activities, interaction with others \n(B)  Seek private, solitary 				      					activities with quiet to  concentrate ",
+           		"9. (A) Seek many tasks, public activities, interaction with others \n(B)  Seek private, solitary activities with quiet to  concentrate ",
           		"10. (A) Standard,usual, conventional \n(B)  Different, novel, unique ",
           		"11. (A) Firm,tend to criticize,hold the line \n(B) Gentle, tend to appreciate,conciliate",
           		"12. (A) Regulated , structured  \n(B)  Easy-going,live and let live ",

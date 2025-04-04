@@ -15,7 +15,7 @@ public class StudentGrade{
 	System.out.println("How many students do you have?");
 	noOfStudents = userInput.nextInt();
 
-	int noOfsubjects;
+	int noOfSubjects;
 	System.out.println("How many subject do they offer?");
 	noOfSubjects = userInput.nextInt();
 	
@@ -27,29 +27,29 @@ public class StudentGrade{
 	int[][] studentGrades = new int [noOfStudents][noOfSubjects];
 
 	for(int student = 0;student < noOfStudents; student++){
-		System.out.println("Entering score for student" , (Student + 1) + ":" );
-	
-	for(int score = 0;score < noOfSubjects; score ++){
-
-		int subjects;
-		System.out.println("Entering score for subject" , (Subject + 1) + ":");
-		subjects = userInput.nextInt();
+		System.out.println("Entering score for student" + (student + 1) + ":" );
+	for(int subject = 0;subject < noOfSubjects; subject ++){
+		while(true){
+		System.out.println("Entering score for subject" + (subject + 1) + ":");
+		int score = userInput.nextInt();
 		
 		if (score < 0 || score > 100){
 			System.out.println("Invalid input,enter your number from 0 - 100!!!");
+			break;
+		   }else {
+			studentGrades[student][subject] = score;
 		   }
-		while true
-			(score < 0 || score > 100){
-			studentGrades[noOfStudents][noOfSubjects] = score;
-
+		 }
+		}
+	
 	System.out.println("""
 	Saving >>>>>>>>>>>>>>>>>>>>>>>>>
-	Saved successfully
+	Saved successfullyssss
 	""");
-		}
-	}	
- 
-
-
+	  }
+	 }	
+	
 	}
-}
+
+
+	

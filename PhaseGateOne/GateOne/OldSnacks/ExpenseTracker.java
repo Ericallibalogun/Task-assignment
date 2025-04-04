@@ -1,3 +1,4 @@
+package GateOne.OldSnacks;
 import java.util.Scanner;
 
 public class ExpenseTracker {
@@ -98,5 +99,5 @@ public class ExpenseTracker {
     public static void exitProgram() {
         System.out.println("Exiting the app. Goodbye!");
         System.exit(0);
-    }
+}
 }
